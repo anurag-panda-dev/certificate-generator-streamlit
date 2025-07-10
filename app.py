@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # Google Apps Script Web App URL - Replace with your actual URL
-GOOGLE_APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxKnrqWiMebISX1G3hznaSL4XluvWa4Ly_p6OT4zvDdAWdblAeNdZvDpaNBWglz3YE/exec"
+GOOGLE_APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyvL9iPWYPHkwSsEGq4Eb7l_QHdSSvH5cMFEMbaSBOYElcS1GiRKH9z6CsEjL4uSzg/exec"
 
 # Certificate types mapping
 CERTIFICATE_TYPES = {
